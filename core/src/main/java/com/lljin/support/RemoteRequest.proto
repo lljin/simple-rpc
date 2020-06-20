@@ -1,0 +1,4 @@
+message RemoteRequest{
+    String className=1;
+
+}
